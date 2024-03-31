@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 January 2024 - To: 28 March 2024
+From: 04 January 2024 - To: 29 March 2024
 
-Total Time: 158 hrs 9 mins
+Total Time: 160 hrs 5 mins
 
-JavaScript     119 hrs 16 mins ███████████▓░░░░░░░░░░░░░   46.29 %
-Other          99 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   38.62 %
+JavaScript     120 hrs 40 mins ███████████▓░░░░░░░░░░░░░   46.42 %
+Other          99 hrs 53 mins  █████████▓░░░░░░░░░░░░░░░   38.42 %
 ```
 
 <!--END_SECTION:waka-->
