@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 09 June 2024
+From: 04 January 2024 - To: 10 June 2024
 
-Total Time: 417 hrs 15 mins
+Total Time: 417 hrs 45 mins
 
-Other             143 hrs 56 mins ████████▓░░░░░░░░░░░░░░░░   34.50 %
-JavaScript        126 hrs 33 mins ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-Python            75 hrs 29 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
-Java              22 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-TypeScript        20 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Other             144 hrs 24 mins ████████▓░░░░░░░░░░░░░░░░   34.57 %
+JavaScript        126 hrs 33 mins ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Python            75 hrs 29 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Java              22 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TypeScript        20 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
