@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 20 January 2025
+From: 04 January 2024 - To: 22 January 2025
 
-Total Time: 1,040 hrs 3 mins
+Total Time: 1,040 hrs 15 mins
 
-TypeScript          365 hrs 5 mins  ████████▓░░░░░░░░░░░░░░░░   35.10 %
+TypeScript          365 hrs 17 mins ████████▓░░░░░░░░░░░░░░░░   35.12 %
 Other               249 hrs 55 mins ██████░░░░░░░░░░░░░░░░░░░   24.03 %
 JavaScript          206 hrs 53 mins █████░░░░░░░░░░░░░░░░░░░░   19.89 %
 Python              75 hrs 31 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
