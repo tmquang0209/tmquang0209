@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 29 September 2026
+From: 04 January 2024 - To: 30 September 2026
 
-Total Time: 2,994 hrs 30 mins
+Total Time: 2,996 hrs 51 mins
 
-TypeScript                 1,008 hrs 56 mins     ████████▒░░░░░░░░░░░░░░░░   33.69 %
-JavaScript                 1,002 hrs 29 mins     ████████▒░░░░░░░░░░░░░░░░   33.48 %
-Other                      399 hrs 2 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Markdown                   102 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript                 1,009 hrs 21 mins     ████████▒░░░░░░░░░░░░░░░░   33.68 %
+JavaScript                 1,002 hrs 39 mins     ████████▒░░░░░░░░░░░░░░░░   33.46 %
+Other                      399 hrs 11 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Markdown                   102 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
